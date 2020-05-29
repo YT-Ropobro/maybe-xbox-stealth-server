@@ -1,0 +1,67 @@
+Hello Everyone! 
+
+This is nub tutorial on how to use a stealth server from your own computer/internet!
+Lets get started!
+
+
+
+How to use? 
+
+You Need Windows 2010 Ulimate & Full Install of xbox neighborhood. I will provide links
+
+------------------------------NEWB FRIENDLY!!--------------------------------
+
+---------------------------Contains COD Bypasses-----------------------------
+
+If you need help find me on discord, click link at my site: www.silentlive.online
+
+Step 1) 
+Open Base Client from Base.Sln
+Open Listener from Base.csproj
+Sign up for Mysql/PHP Admin here: 
+
+https://remotemysql.com/
+
+Step 2)
+
+You should receive an email with Login Creditials, enter these into Listener. See picture in folder 
+
+Step 3)
+Enter Your external IP address into Client along with Port number, find Sockets.cpp(dont forget to set port in the listener as well, See Picture in folder) Dont know what this is? Just go to google & type, "Whats my ip address?" Then use that number. 
+
+Step 4)
+Configure your Router/computer firwall Settings. Allow these ports through(port forward):
+ 
+See this Link for Windows 10:
+https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html
+
+Xbox 360 network ports and router configurations for Xbox Live:
+
+Port 88 (UDP)
+Port 3074 (UDP and TCP)
+Port 53 (UDP and TCP)
+Port 80 (TCP)
+Stealth Server Port Number(dont use above 9999, i just use 2000)
+MySql Port 3306(TCP)
+
+Step 5)
+Add Base mql to mysql database
+Add your CPU Key to Consoles on the DataBase(phpMyAdmin)
+To Create a new entry click Insert 
+Enter ID, name, email, CPU Key, time.	
+Dont know where CPU key is? Watch video: 
+https://www.youtube.com/watch?v=UZh2a3Psb4A
+
+
+Step 6)
+Launch base.exe(make a notify.txt & enter a welcome MSG before starting)
+
+
+
+Step 7)
+Set your Plugins in Dashluanch & connect!
+1st: xbmx.xex
+2nd: Base.xex
+
+DROP BASE.XEX INTO LISTENER FOLDER!! 
+Base 17526 Source\Base 17526 Source\Base Listener\bin\Debug\bin

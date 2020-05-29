@@ -1,0 +1,4 @@
+﻿  Microsoft (R) Library Manager Version 10.00.11886.00
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+     Creating library C:\Users\silent\Downloads\Base 17526 Source\base\Base 17544 Source\Base Client\Build\xkelib\Release21256.0\xkelib.lib and object C:\Users\silent\Downloads\Base 17526 Source\base\Base 17544 Source\Base Client\Build\xkelib\Release21256.0\xkelib.exp

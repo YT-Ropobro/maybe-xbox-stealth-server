@@ -1,0 +1,218 @@
+Live Block Set True
+Live Strong Set True
+Cache Reset - Complete
+Kv Loaded From: Hdd:\kv.bin
+Mac Address Spoofing - Complete
+ServerGetSalt - Freemode
+ServerGetStatus - Complete
+ServerGetKey - Complete
+ServerGetModules - Complete
+ServerGetClientInfo - Complete
+Server Connection - Complete
+System Spoofing - Complete
+Gold Spoofing - Complete
+base INI Found Using Existing
+Cod OffHost - Enabled
+Bo2 Bypass - Enabled
+AW Bypass - Enabled
+Bo3 Bypass - Enabled
+Ghost Bypass - Enabled
+GtaV Bypass - Enabled
+Msp Spoof - Enabled
+Custom UI - Enabled
+Live Block Set False
+Live Strong Set False
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+XamChallenge - Called
+XoscChallenge - Called
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+XoscChallenge - Called
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+XoscChallenge - Called
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+XoscChallenge - Called
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Live Block Set False
+Live Strong Set False
+ServerPresence - Freemode
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+InitCommand: connect error 10060
+
+ReceiveData: recv cbRecv = 0
+ServerGetSalt - SendCommand failed
+ServerGetSalt Failed
+
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+ReceiveData: recv cbRecv = 0
+ServerGetSalt - SendCommand failed
+ServerGetSalt Failed
+
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+ReceiveData: recv cbRecv = 0
+ServerGetSalt - SendCommand failed
+ServerGetSalt Failed
+
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+ReceiveData: recv cbRecv = 0
+ServerGetSalt - SendCommand failed
+ServerGetSalt Failed
+
+Running from HDD
+RUNNING PATH = HDD:\kv.bin
+KV found on HDD/USB, using
+SetKeyVault - KeyVault is set!
+CReadFile - CreateFile failed
+Applyed Patches
+ServerGetSalt - 1
+ReceiveData: recv cbRecv = 0
+ServerGetSalt - SendCommand failed
+ServerGetSalt Failed
+
